@@ -22,6 +22,7 @@ How many recommendations do you want? (e.g., 10): 7
 Estimated likability score for your preferences: 0.074
 
 === 🎧 Top 7 Recommended Songs For You ===
+```bash
 
                     track_name          artist_name genre  likability
 150858  Catarino y los Rurales          El Fantasma   Pop    0.999867
@@ -31,3 +32,4 @@ Estimated likability score for your preferences: 0.074
 111059                 Imma Be  The Black Eyed Peas   Pop    0.999827
 113742   El Día De Los Muertos       Alfredo Olivas   Pop    0.999810
 150415        Me Está Gustando  Banda Los Recoditos   Pop    0.999808
+```
