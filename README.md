@@ -6,6 +6,7 @@
 3. User Centric Design; Likability Score Prediction (Output): Represents a learned probability based on audio and metadata features
 
 🎵 MUSIC RECOMMENDER SYSTEM (FNN Powered) 🎵 
+
 Answer the following questions to get personalized song suggestions.
 
 How danceable should the song be? (0 to 1): 0.5
@@ -13,10 +14,8 @@ Preferred energy level? (0 to 1): 0.7
 Preferred emotional positivity (valence)? (0 to 1): 0.8
 
 Available Genres (first 20 shown):
-['Movie' 'R&B' 'A Capella' 'Alternative' 'Country' 'Dance' 'Electronic'
- 'Anime' 'Folk' 'Blues' 'Opera' 'Hip-Hop' "Children's Music"
- 'Children’s Music' 'Rap' 'Indie' 'Classical' 'Pop' 'Reggae' 'Reggaeton']
 Enter your preferred genre (exactly as shown above if possible): Blues
+
 How many recommendations do you want? (e.g., 10): 7
 
 Estimated likability score for your preferences: 0.074
